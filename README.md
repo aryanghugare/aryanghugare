@@ -65,7 +65,7 @@
 
 ## 💡 Let's Connect!
 - 📫 Reach out: [LinkedIn](https://www.linkedin.com/in/aryanghugare/)
-- 🌐 Portfolio: _Coming soon!_
+- 🌐 Portfolio: https://portfolio-aia39hq8q-aryan-ghugares-projects.vercel.app
 
 ---
 
