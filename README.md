@@ -29,6 +29,11 @@
   _A next-gen, full-stack blogging platform._  
   Built with React, Redux Toolkit, and Appwrite for instant CRUD, seamless auth, and cloud storage.
 
+### 🧩 Full-Stack AI
+- **[ResumeForge](https://github.com/aryanghugare/ResumeForge-AI):**  
+  _AI-powered, full-stack resume builder._  
+  Built with React, Tailwind CSS, Node.js, Express, and MongoDB, with OpenAI integration for content generation. Helps users create ATS-friendly resumes with template selection, section-based editing, live preview, and PDF export.
+
 ---
 
 ## 🛠️ My Tech Stack
