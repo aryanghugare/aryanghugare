@@ -60,6 +60,13 @@
 
 ---
 
+## 🌍 Open Source Contributions
+- 🛠️ Contributed to open-source **Node.js** and **React** projects with bug fixes and feature improvements.
+- 📚 Improved project documentation and setup instructions to make onboarding easier for new contributors.
+- 🔍 Reviewed pull requests and shared code quality suggestions for cleaner, maintainable code.
+
+---
+
 ## 🔥 Current Focus
 - Architecting backend APIs in **Node.js** & **Express**, focusing on performance and security.
 - Developing rich, stateful UIs with **React** and **Redux Toolkit**.
