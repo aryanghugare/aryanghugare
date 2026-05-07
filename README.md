@@ -61,9 +61,19 @@
 ---
 
 ## 🌍 Open Source Contributions
-- 🛠️ Contributed to open-source **Node.js** and **React** projects with bug fixes and feature improvements.
-- 📚 Improved project documentation and setup instructions to make onboarding easier for new contributors.
-- 🔍 Reviewed pull requests and shared code quality suggestions for cleaner, maintainable code.
+- 🚀 Contributed to large-scale open-source SaaS and infrastructure platforms including:
+  - [Unkey](https://github.com/unkeyed/unkey) — Improved UI/UX workflows and platform functionality through production-ready feature enhancements and fixes.
+  - [Twenty](https://github.com/twentyhq/twenty) — Contributed frontend improvements and usability refinements to the open-source CRM platform.
+  - [Formbricks](https://github.com/formbricks/formbricks) — Implemented UI enhancements and feature updates focused on improving user experience and maintainability.
+
+### 🔗 Merged Pull Requests
+- [unkeyed/unkey#6023](https://github.com/unkeyed/unkey/pull/6023)
+- [twentyhq/twenty#19712](https://github.com/twentyhq/twenty/pull/19712)
+- [formbricks/formbricks#7735](https://github.com/formbricks/formbricks/pull/7735)
+- [formbricks/formbricks#7497](https://github.com/formbricks/formbricks/pull/7497)
+
+- 🧩 Actively contributing to modern TypeScript, React, and full-stack ecosystems through bug fixes, UI improvements, and feature-focused pull requests.
+- 🤝 Experienced with collaborative Git workflows, PR reviews, code discussions, and remote open-source contribution practices.
 
 ---
 
