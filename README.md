@@ -2,7 +2,7 @@
 
 🎓 B.E. Computer Science Student  
 💻 Aspiring Software Engineer  
-🚀 Backend Enthusiast | React Developer | DSA Addict
+🚀 Backend Enthusiast | React Developer | DSA Addict | Backend Developer
 
 ---
 
@@ -86,7 +86,7 @@
 ---
 
 ## 💡 Let's Connect!
-- 📫 Reach out: [LinkedIn](https://www.linkedin.com/in/aryanghugare/)
+- 📫 Reach out: [LinkedIn](https://www.linkedin.com/in/aryan-ghugare-2ab580255/)
 - 🌐 Portfolio: https://portfolio-seven-rouge-uhjbcyeivc.vercel.app
 
 ---
